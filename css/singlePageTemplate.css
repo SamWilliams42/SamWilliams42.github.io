@@ -201,10 +201,10 @@ ul li:hover a {
 	height: 80%;
 }
 .project_video {
-	width:64%;
-	float:left;
-	margin-left: 3%;
-	margin-bottom: 15px;
+    width: 64%;
+    float: left;
+    margin-left: 3%;
+    margin-bottom: 15px;
 }
 .divider {
 	height: 40px;
